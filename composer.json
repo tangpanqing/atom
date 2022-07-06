@@ -1,0 +1,14 @@
+{
+    "name": "tangpanqing/atom",
+    "description": "a php framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tangpanqing",
+            "email": "tangpanqing@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
