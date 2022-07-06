@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "bebe2880dc3b3c0cd5fcf1be16d83162",
+    "packages": [
+        {
+            "name": "tangpanqing/atom-framework",
+            "version": "v0.01",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tangpanqing/atom-framework.git",
+                "reference": "af8e2f92d60d55d0b6e930182f121cb0c01d7a5c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tangpanqing/atom-framework/zipball/af8e2f92d60d55d0b6e930182f121cb0c01d7a5c",
+                "reference": "af8e2f92d60d55d0b6e930182f121cb0c01d7a5c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "atom\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "tangpanqing",
+                    "email": "tangpanqing@qq.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/tangpanqing/atom-framework/issues",
+                "source": "https://github.com/tangpanqing/atom-framework/tree/v0.01"
+            },
+            "time": "2022-07-06T01:31:26+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

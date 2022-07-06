@@ -1,3 +1,8 @@
 <?php
+require "bootstrap.php";
 
-echo 'hello world';
+app()->any("/", function($res){
+    return "hello world";
+});
+
+app()->runCommon();

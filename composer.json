@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "tangpanqing/atom-framework": "^0.01.0"
+    }
 }
