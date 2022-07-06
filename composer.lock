@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bebe2880dc3b3c0cd5fcf1be16d83162",
+    "content-hash": "29f25fa43efafb4bcbb92134d56c960f",
     "packages": [
         {
             "name": "tangpanqing/atom-framework",
-            "version": "v0.01",
+            "version": "v1.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tangpanqing/atom-framework.git",
-                "reference": "af8e2f92d60d55d0b6e930182f121cb0c01d7a5c"
+                "reference": "10f8f2e8f1823c57ec1a6c5738b2fe23f30a341d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tangpanqing/atom-framework/zipball/af8e2f92d60d55d0b6e930182f121cb0c01d7a5c",
-                "reference": "af8e2f92d60d55d0b6e930182f121cb0c01d7a5c",
+                "url": "https://api.github.com/repos/tangpanqing/atom-framework/zipball/10f8f2e8f1823c57ec1a6c5738b2fe23f30a341d",
+                "reference": "10f8f2e8f1823c57ec1a6c5738b2fe23f30a341d",
                 "shasum": ""
             },
             "type": "library",
@@ -38,9 +38,9 @@
             ],
             "support": {
                 "issues": "https://github.com/tangpanqing/atom-framework/issues",
-                "source": "https://github.com/tangpanqing/atom-framework/tree/v0.01"
+                "source": "https://github.com/tangpanqing/atom-framework/tree/v1.23"
             },
-            "time": "2022-07-06T01:31:26+00:00"
+            "time": "2022-07-06T05:35:14+00:00"
         }
     ],
     "packages-dev": [],
